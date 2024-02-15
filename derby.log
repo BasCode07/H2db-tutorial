@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri Feb 09 19:56:26 UTC 2024:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.16.1.1 - (1901046): instance a816c00e-018d-8f71-5487-000001a0b528 
+on database directory memory:/home/kali/ java-codes/H2-tutorial/f94efe8c-0291-4cd5-8080-39119c9d36d1 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@1dbd16a6 
+Loaded from file:/home/kali/.m2/repository/org/apache/derby/derby/10.16.1.1/derby-10.16.1.1.jar
+java.vendor=Debian
+java.runtime.version=17.0.10+7-Debian-1
+user.dir=/home/kali/ java-codes/H2-tutorial
+os.name=Linux
+os.arch=aarch64
+os.version=4.14.186-00958-gc5beb1016363-dirty
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
